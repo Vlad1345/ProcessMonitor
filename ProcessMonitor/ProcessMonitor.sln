@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessMonitor", "ProcessMonitor.csproj", "{CF295ED4-16EB-490F-B68E-7C6317B894E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProcessMonitor", "..\NUnitTestProcessMonitor\NUnitTestProcessMonitor.csproj", "{41C46795-B2EB-4019-932E-1B62A03A52F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF295ED4-16EB-490F-B68E-7C6317B894E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF295ED4-16EB-490F-B68E-7C6317B894E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF295ED4-16EB-490F-B68E-7C6317B894E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF295ED4-16EB-490F-B68E-7C6317B894E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C46795-B2EB-4019-932E-1B62A03A52F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C46795-B2EB-4019-932E-1B62A03A52F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C46795-B2EB-4019-932E-1B62A03A52F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C46795-B2EB-4019-932E-1B62A03A52F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3088C3AB-7A28-42B2-BBFC-F7ED2DC4FD34}
+	EndGlobalSection
+EndGlobal
